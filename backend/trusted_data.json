@@ -1,0 +1,68 @@
+[
+  {
+    "medicine_name": "Amoxicillin",
+    "batch_number": "AMX8849",
+    "manufacturer": "BioPharma Corp",
+    "expiry_date": "2027-12-01"
+  },
+  {
+    "medicine_name": "Lisinopril",
+    "batch_number": "LSP4912",
+    "manufacturer": "Apex Health",
+    "expiry_date": "2028-05-15"
+  },
+  {
+    "medicine_name": "Metformin",
+    "batch_number": "MTF3029",
+    "manufacturer": "Global Meds",
+    "expiry_date": "2027-08-20"
+  },
+  {
+    "medicine_name": "Atorvastatin",
+    "batch_number": "ATV7721",
+    "manufacturer": "Nova Life Sciences",
+    "expiry_date": "2029-01-10"
+  },
+  {
+    "medicine_name": "Ibuprofen",
+    "batch_number": "IBP1045",
+    "manufacturer": "Reliant Pharma",
+    "expiry_date": "2028-11-30"
+  },
+  {
+    "medicine_name": "Paracetamol",
+    "batch_number": "PCT5098",
+    "manufacturer": "Zenith Labs",
+    "expiry_date": "2027-04-18"
+  },
+  {
+    "medicine_name": "Paracetamol",
+    "batch_number": "PA1023",
+    "manufacturer": "Zenith Labs",
+    "expiry_date": "2028-10-12"
+  },
+  {
+    "medicine_name": "Aspirin",
+    "batch_number": "ASP6632",
+    "manufacturer": "Bayer Care",
+    "expiry_date": "2028-06-01"
+  },
+  {
+    "medicine_name": "Omeprazole",
+    "batch_number": "OMP9912",
+    "manufacturer": "Sandoz Group",
+    "expiry_date": "2027-10-15"
+  },
+  {
+    "medicine_name": "Amlodipine",
+    "batch_number": "ALD4452",
+    "manufacturer": "Pfizer Inc",
+    "expiry_date": "2028-09-22"
+  },
+  {
+    "medicine_name": "Gabapentin",
+    "batch_number": "GBP2283",
+    "manufacturer": "Teva Pharmaceuticals",
+    "expiry_date": "2027-03-31"
+  }
+]

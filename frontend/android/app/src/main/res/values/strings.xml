@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MediVerify</string>
+    <string name="title_activity_main">MediVerify</string>
+    <string name="package_name">com.mediverify.app</string>
+    <string name="custom_url_scheme">com.mediverify.app</string>
+</resources>

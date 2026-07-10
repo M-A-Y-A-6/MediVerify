@@ -1,0 +1,27 @@
+# Credentials
+aws_credentials.json
+
+# Python cache
+__pycache__/
+backend/__pycache__/
+
+# IDE / Agent configurations
+.gemini/
+.agents/
+.system_generated/
+*.log
+
+# Environment variables
+.env
+frontend/.env
+infrastructure/.env
+
+# Node / CDK
+node_modules/
+infrastructure/cdk.out/
+infrastructure/dist/
+frontend/dist/
+frontend/node_modules/
+
+# CDK bootstrap / context
+infrastructure/cdk.context.json

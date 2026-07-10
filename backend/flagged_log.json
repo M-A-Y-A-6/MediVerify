@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e7b9a5f2-9c31-41e9-a4b5-8c76b91c2d3e",
+    "timestamp": "2026-07-09T14:23:10.453218",
+    "detected_medicine_name": "Unknown Drug",
+    "detected_batch_number": "XX9999"
+  },
+  {
+    "id": "1d8a4f9e-2b6c-481d-b5e2-4a9c8b7f3d1a",
+    "timestamp": "2026-07-10T09:15:42.109432",
+    "detected_medicine_name": "Counterfeit Aspirin",
+    "detected_batch_number": "ASP0000"
+  }
+]
